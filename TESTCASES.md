@@ -1,5 +1,5 @@
-Здесь представлено решение 2 части тестового задания от Avito. [Ссылка на тестовое задание.](https://drive.google.com/file/d/1agx-6btmmj33I76wF3Chqkow5Mlic2oK/view?usp=sharing)  
-Если задание по ссылке недоступно, вы можете посмотреть скрины задания в папке [test_conditions](https://github.com/olga-lo/test-assignment-Avito/tree/main/test_conditions)  
+Здесь представлено решение 2 части тестового задания от Avito [Ссылка на тестовое задание](https://drive.google.com/file/d/1agx-6btmmj33I76wF3Chqkow5Mlic2oK/view?usp=sharing)  
+Если задание по ссылке недоступно, вы можете посмотреть скрины задания в папке [test_conditions](https://github.com/olga-lo/test-assignment-Avito/tree/main/test_conditions)   
 [Ссылка на страницу со счетчиками](https://www.avito.ru/avito-care/eco-impact) 
 
 
